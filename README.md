@@ -5,7 +5,7 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=RichDom2185) -->
 
-I am a second-year Computer Science and Business Administration undergraduate at the [National University of Singapore](https://nus.edu.sg). I like coding and learning new things in my spare time, and am interested in full-stack web/mobile app development!
+I am a third-year Computer Science and Business Administration undergraduate at the [National University of Singapore](https://nus.edu.sg). I like coding and learning new things in my spare time, and am interested in full-stack web/mobile app development!
 
 <br>
 
